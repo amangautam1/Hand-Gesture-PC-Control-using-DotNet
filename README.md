@@ -4,9 +4,9 @@ This is a Dot net Based windows application which uses EMGUCV(OPENCV wrapper for
 # Images
 <img src="img.png" height=300 width=500/>
 
-#Libraries and API used
-<li>  EMGUCV ->   <a href="www.emgu.com/">Go</a>
-<li>  NIRCMD -> 	<a href="www.nirsoft.net/utils/nircmd.html">Go</a>
-<li>	CSCORE ->    <a href="https://github.com/filoe/cscore">Go</a>
-<li>	Virtual Keys ->   <a href="https://msdn.microsoft.com/en-us/library/windows/desktop/dd375731(v=vs.85).aspx>Go</a>
+# Libraries and API used
+<li>  <a href="www.emgu.com/">EMGUCV</a> ->   For image processing
+<li>  <a href="www.nirsoft.net/utils/nircmd.html">nircmd</a> -> 	To execute cmd commands
+<li>	<a href="https://github.com/filoe/cscorel">CSCore</a> ->   For audio detection
+<li>	<a href="https://msdn.microsoft.com/en-us/library/windows/desktop/dd375731(v=vs.85).aspx">Virtual Keys</a> ->  For simulating keyboard input
 
